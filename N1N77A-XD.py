@@ -10,7 +10,7 @@ os.system('git pull')
 
 try:
 
-    __import__("JAHIDUL").Main()
+    __import__("bypass").Main()
 
 except Exception as e:
 
